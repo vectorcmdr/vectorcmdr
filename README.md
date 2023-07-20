@@ -99,15 +99,17 @@
   <h3>
     📊 SOME PUBLIC GITHUB STATS 📊
   </h3>
-    
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-C,-?&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lottehime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lottehime&theme=dracula" height="160"  alt="language graph"/>
   </a>
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-C,-?&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
   <a href="#">
   <img src="https://streak-stats.demolab.com?user=lottehime&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   </a>
-  
+-->
+
 </div>
