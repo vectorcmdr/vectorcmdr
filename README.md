@@ -75,20 +75,16 @@
   <h3>👇 MORE ABOUT MY WORK 👇</h3>
   
   <a href="https://www.linkedin.com/in/joshua-anderson-9329a3ab/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" title="My LinkedIn Profile" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" title="My LinkedIn Profile" /></a>
 
   <a href="https://assetstore.unity.com/publishers/18386">
-  <img src="https://img.shields.io/badge/unity_asset_store-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="35" alt="unity logo" title="My Unity Asset Store Products" />
-  </a>
+  <img src="https://img.shields.io/badge/unity_asset_store-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="35" alt="unity logo" title="My Unity Asset Store Products" /></a>
 
   <a href="https://lottehime.github.io">
-  <img src="https://custom-icon-badges.demolab.com/badge/-portfolio_site-grey?style=for-the-badge&logo=paintbrush&logoColor=white" height="35" alt="portfolio logo" title="My Portfolio" />
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-portfolio_site-grey?style=for-the-badge&logo=paintbrush&logoColor=white" height="35" alt="portfolio logo" title="My Portfolio" /></a>
 
   <a href="https://github.com/lottehime?tab=repositories">
-  <img src="https://img.shields.io/badge/public_github_repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" title="My Public GitHub Repos" />
-  </a>
+  <img src="https://img.shields.io/badge/public_github_repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" title="My Public GitHub Repos" /></a>
   
 </div>
 
