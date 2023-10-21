@@ -5,7 +5,9 @@ I'm a...
 🖌️ 3D Artist
 
 💕 I'm passionate about Unity & game dev, low poly & stylized 3D art, C# tools and workflow automation.  
+
 🚀 VR/AR, ML rendering, CAD and futurist concepting are things I enjoy as well.  
+
 🎮 For fun I love to play video, card and tabletop games, make game mods, and generally tinker with tech and art.
 
 <div align="center">
