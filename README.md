@@ -80,12 +80,14 @@
   <a href="https://assetstore.unity.com/publishers/18386">
   <img src="https://img.shields.io/badge/unity_asset_store-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="35" alt="unity logo" title="My Unity Asset Store Products" /></a>
 
+<!--
   <a href="https://lottehime.github.io">
   <img src="https://custom-icon-badges.demolab.com/badge/-portfolio_site-grey?style=for-the-badge&logo=paintbrush&logoColor=white" height="35" alt="portfolio logo" title="My Portfolio" /></a>
+-->
 
   <a href="https://github.com/lottehime?tab=repositories">
   <img src="https://img.shields.io/badge/public_github_repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" title="My Public GitHub Repos" /></a>
-  
+
 </div>
 
 ------
