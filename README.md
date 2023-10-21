@@ -34,7 +34,7 @@ I'm a...
 
 <div align="center">
   <h3>
-    ⚙️ PRIMARY TECH STACK ⚙️
+    ⚙️ TECH STACK ⚙️
   </h3>
   <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></a>
   <a href="#"><img width="12" /></a>
@@ -53,13 +53,26 @@ I'm a...
   <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" title="Visual Studio" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" title=".Net Development" /></a>
-  <a href="#"><img width="12" /></a>
+
   <a href="#"><img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo" title="Markdown" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://github.com/lottehime/lottehime/blob/main/3d-printer.png" height="30" alt="markdown logo" title="3D Printing (FDM/SLA)" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://cdn.simpleicons.org/googledrive/405263" height="30" alt="markdown logo" title="Google Drive" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" title="MySQL" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
   
+  <!--
   <h3>
     ⚙️ SECONDARY TECH STACK ⚙️
   </h3>
@@ -82,7 +95,7 @@ I'm a...
   <a href="#"><img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo" title="Raspberry Pi IoT" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
-
+  -->   
 </div>
 
 ------
@@ -90,15 +103,15 @@ I'm a...
 <div align="center">
 
   <h3>
-    📊 SOME PUBLIC GITHUB STATS 📊
+    📊 SOME GITHUB STATS 📊
   </h3>
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+  
   <a href="#">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lottehime&theme=dracula" height="130"  alt="language graph"/>
   </a>
-    
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
 <!--
   <a href="#">
   <img src="https://streak-stats.demolab.com?user=lottehime&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
