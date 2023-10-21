@@ -54,6 +54,14 @@ I'm a...
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" title=".Net Development" /></a>
 
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
+  <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo" title="Markdown" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://github.com/lottehime/lottehime/blob/main/3d-printer.png" height="30" alt="markdown logo" title="3D Printing (FDM/SLA)" /></a>
@@ -63,14 +71,6 @@ I'm a...
   <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" title="MySQL" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
   
   <!--
   <h3>
