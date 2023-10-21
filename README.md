@@ -1,6 +1,8 @@
 ## Hi, my name is Josh 👋
 
-I'm a 💻 Developer & 🖌️ 3D Artist
+I'm a...  
+💻 Developer  
+🖌️ 3D Artist
 
 💕 I'm passionate about Unity & game dev, low poly & stylized 3D art, C# tools and workflow automation.  
 
