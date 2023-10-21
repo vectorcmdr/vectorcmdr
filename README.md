@@ -1,4 +1,4 @@
-## Hi, my name is Josh 👋
+Hi, my name is Josh 👋
 
 I'm a...  
 💻 Developer  
