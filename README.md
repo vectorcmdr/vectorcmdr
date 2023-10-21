@@ -12,7 +12,7 @@ I'm a...
 
 <div align="center">
   
-  <h3>👇 MORE ABOUT MY WORK 👇</h3>
+  <h4>👇 MORE ABOUT MY WORK 👇</h4>
   
   <a href="https://www.linkedin.com/in/joshua-anderson-9329a3ab/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" title="My LinkedIn Profile" /></a>
@@ -33,9 +33,10 @@ I'm a...
 ------
 
 <div align="center">
-  <h3>
+  <h4>
     ⚙️ TECH STACK ⚙️
-  </h3>
+  </h4>
+  
   <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" title="Unity Development" /></a>
@@ -102,9 +103,9 @@ I'm a...
 
 <div align="center">
 
-  <h3>
+  <h4>
     📊 SOME GITHUB STATS 📊
-  </h3>
+  </h4>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
   
