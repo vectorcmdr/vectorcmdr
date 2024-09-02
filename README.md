@@ -1,5 +1,7 @@
 <h2>Hi, I'm Josh 👋</h2>
+<picture>
 <img src="https://github.com/lottehime/lottehime/blob/main/assets/typewriter.gif"/>
+</picture>
 <!--
 Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 -->
