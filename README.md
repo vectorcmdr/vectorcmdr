@@ -1,5 +1,8 @@
 <h2>Hi, I'm Josh 👋</h2>
 <img src="https://github.com/lottehime/lottehime/blob/main/assets/typewriter.gif"/>
+<!--
+Gif from:  https://willkessler.github.io/typed-text-gif-maker/
+-->
 <h3>I'm a professional developer and 3D artist.</h3>
 
 + <strong>😍 Focus areas:</strong> <i>Unity game dev, low poly stylized 3D art, C# tools and automation.</i>
@@ -14,12 +17,6 @@
 </br>
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/joshua-anderson-9329a3ab/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" title="My LinkedIn Profile" /></a>
-
-  <a href="https://assetstore.unity.com/publishers/18386">
-  <img src="https://img.shields.io/badge/unity_asset_store-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="30" alt="unity logo" title="My Unity Asset Store Products" /></a>
-
 <!--
   <a href="https://lottehime.github.io">
   <img src="https://custom-icon-badges.demolab.com/badge/-portfolio_site-grey?style=for-the-badge&logo=paintbrush&logoColor=white" height="30" alt="portfolio logo" title="My Portfolio" /></a>
@@ -27,6 +24,12 @@
 
   <a href="https://github.com/lottehime?tab=repositories">
   <img src="https://img.shields.io/badge/public_github_repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo" title="My Public GitHub Repos" /></a>
+
+    <a href="https://assetstore.unity.com/publishers/18386">
+  <img src="https://img.shields.io/badge/unity_asset_store-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="30" alt="unity logo" title="My Unity Asset Store Products" /></a>
+
+  <a href="https://www.linkedin.com/in/joshua-anderson-9329a3ab/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" title="My LinkedIn Profile" /></a>
 
 </div>
 
