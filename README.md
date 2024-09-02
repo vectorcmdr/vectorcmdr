@@ -1,18 +1,18 @@
-Hi, my name is Josh 👋
+<h2>Hi, I'm Josh 👋</h2>
+<img src="https://github.com/lottehime/lottehime/blob/main/assets/typewriter.gif"/>
+<h3>I'm a professional developer and 3D artist.</h3>
 
-I'm a...  
-💻 Developer  
-🖌️ 3D Artist
++ <strong>😍 Focus areas:</strong> <i>Unity game dev, low poly stylized 3D art, C# tools and automation.</i>
++ <strong>💪 Other skills:</strong> <i>Webdev, VR/AR, 3D printing, CAD and futurism in design.</i>
++ <strong>🎮 For fun:</strong> <i>Games (video, card and tabletop), making game mods, and generally tinkering.</i>
 
-💕 I'm passionate about Unity & game dev, low poly & stylized 3D art, C# tools and workflow automation.  
+<strong>👨‍💻 Currently working on:</strong>
++ 🌱 Senzai (senzai-theme, senzai-startpage) [👀]
++ 🗃️ STL Bitz Box [🔒]
++ 🕵️ Secret Unity stuff [🔒]
 
-🚀 VR/AR, ML rendering, CAD, 3D printing and futurist concepting are things I enjoy as well.  
-
-🎮 For fun I love to play video, card and tabletop games, make game mods, and generally tinker with tech and art.
-
+</br>
 <div align="center">
-  
-  <h4>👇 MORE ABOUT MY WORK 👇</h4>
   
   <a href="https://www.linkedin.com/in/joshua-anderson-9329a3ab/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" title="My LinkedIn Profile" /></a>
@@ -36,67 +36,43 @@ I'm a...
   <h4>
     ⚙️ TECH STACK ⚙️
   </h4>
-  
   <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" title="Unity Development" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" title="Visual Studio" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" title=".Net Development" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo" title="C++ Development" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo" title="HTML" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" title="CSS" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" title="MySQL" /></a>
+  <a href="#"><img width="12" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub Management" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=sketchup" height="30" alt="sketchup logo" title="SketchUp 3D Modeling" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo" title="Blender Sculpting" /></a>
   <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub Management" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo" title="Trello Project Management" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
   <a href="#"><img width="12" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo" title="Photoshop" /></a>
   <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" title="Visual Studio" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo" title="Trello Project Management" /></a>
   <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" title=".Net Development" /></a>
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo" title="Markdown" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://github.com/lottehime/lottehime/blob/main/3d-printer.png" height="30" alt="markdown logo" title="3D Printing (FDM/SLA)" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/googledrive/405263" height="30" alt="markdown logo" title="Google Drive" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" title="MySQL" /></a>
-  
-  <!--
-  <h3>
-    ⚙️ SECONDARY TECH STACK ⚙️
-  </h3>
-  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" title="Flask" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo" title="PyTorch for Stable Diffusion" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" title="Bootstrap" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" title="MySQL" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo" title="Raspberry Pi IoT" /></a>
-  <a href="#"><img width="12" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
-  -->   
+  <a href="#"><img src="https://github.com/lottehime/lottehime/blob/main/assets/3d-printer.png" height="30" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
 </div>
 
 ------
