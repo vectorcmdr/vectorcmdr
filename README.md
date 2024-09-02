@@ -3,8 +3,8 @@
 <h3>I'm a professional developer and 3D artist.</h3>
 
 + <strong>😍 Focus areas:</strong> <i>Unity game dev, low poly stylized 3D art, C# tools and automation.</i>
-+ <strong>💪 Other skills:</strong> <i>Webdev, VR/AR, 3D printing, CAD and futurism in design.</i>
-+ <strong>🎮 For fun:</strong> <i>Games (video, card and tabletop), making game mods, and generally tinkering.</i>
++ <strong>💪 Other areas:</strong> <i>Webdev, VR/AR, 3D printing, CAD and futurism design.</i>
++ <strong>🎮 For fun:</strong> <i>Games (video, tabletop & card), making game mods, and generally tinkering.</i>
 
 <strong>👨‍💻 Currently working on:</strong>
 + 🌱 Senzai (senzai-theme, senzai-startpage) [👀]
