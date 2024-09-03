@@ -34,8 +34,6 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 
 </div>
 
-------
-
 <div align="center">
   <h4>
     ⚙️ TECH STACK ⚙️
@@ -85,15 +83,11 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 
 <div align="center">
 
-  <h4>
-    📊 SOME GITHUB STATS 📊
-  </h4>
-
   [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
   
-  <a href="#">
+  <picture>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lottehime&theme=dracula" height="130"  alt="language graph"/>
-  </a>
+  </picture>
   
 <!--
   <a href="#">
