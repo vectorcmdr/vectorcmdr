@@ -34,12 +34,18 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 
 </div>
 
+------
+
 <div align="center">
   <h4>
     ⚙️ TECH STACK ⚙️
   </h4>
   
-  <picture><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></picture>
+  <picture>
+    
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" />
+  
+  </picture>
   <picture><img width="12" /></picture>
   <picture><img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" title="Unity Development" /></picture>
   <picture><img width="12" /></picture>
@@ -82,10 +88,15 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 ------
 
 <div align="center">
+<picture>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)]
 
+</picture>
+
+  <picture>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lottehime&theme=dracula" height="130"  alt="language graph"/>
+  </picture>
   
 <!--
   <a href="#">
