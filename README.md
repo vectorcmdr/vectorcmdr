@@ -41,43 +41,43 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
     ⚙️ TECH STACK ⚙️
   </h4>
   
-  <a><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" title="Unity Development" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" title="Visual Studio" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" title=".Net Development" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo" title="C++ Development" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo" title="HTML" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" title="CSS" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" title="MySQL" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub Management" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=sketchup" height="30" alt="sketchup logo" title="SketchUp 3D Modeling" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo" title="Blender Sculpting" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo" title="Photoshop" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo" title="Trello Project Management" /></a>
-  <a><img width="12" /></a>
-  <a><img src="https://github.com/lottehime/lottehime/blob/main/assets/3d-printer.png" height="30" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" title="Unity Development" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" title="Visual Studio" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" title=".Net Development" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" title="C Development" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo" title="C++ Development" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo" title="HTML" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" title="CSS" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" title="Python Development" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo" title="Ruby" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" title="MySQL" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub Management" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=sketchup" height="30" alt="sketchup logo" title="SketchUp 3D Modeling" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo" title="Blender Sculpting" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo" title="Photoshop" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo" title="Trello Project Management" /></a>
+  <a href"https://github.com/lottehime"><img width="12" /></a>
+  <a href"https://github.com/lottehime"><img src="https://github.com/lottehime/lottehime/blob/main/assets/3d-printer.png" height="30" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
   
 </div>
 
