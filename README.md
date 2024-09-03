@@ -41,7 +41,7 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
     ⚙️ TECH STACK ⚙️
   </h4>
   
-  <a><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></a>
+  <a id="image1" href="#image1"><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C# Development" /></a>
   <a><img width="6" /></a>
   <a><img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" title="Unity Development" /></a>
   <a><img width="6" /></a>
