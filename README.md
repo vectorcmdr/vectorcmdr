@@ -85,7 +85,7 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)
 
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lottehime&theme=dracula" height="130"  alt="language graph"/>
