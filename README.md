@@ -12,7 +12,7 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 + <strong>🎮 For fun:</strong> <i>Games (video, tabletop & card), making game mods, and generally tinkering.</i>
 
 <strong>👨‍💻 Currently working on:</strong>
-+ 🌱 Senzai (senzai-theme, senzai-startpage) [👀]
++ 🌱 Senzai ([senzai-theme](https://lottehime.github.io/senzai-theme/), senzai-startpage) [👀]
 + 🗃️ STL Bitz Box [🔒]
 + 🕵️ Secret Unity stuff [🔒]
 
