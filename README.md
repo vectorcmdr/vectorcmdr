@@ -1,6 +1,6 @@
 <h2>Hi, I'm Josh 👋</h2>
 <picture>
-<img src="https://github.com/lottehime/lottehime/blob/main/assets/typewriter.gif"/>
+<img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/typewriter.gif"/>
 </picture>
 <!--
 Gif from:  https://willkessler.github.io/typed-text-gif-maker/
@@ -12,18 +12,18 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 + <strong>🎮 For fun:</strong> <i>Games (video, tabletop & card), making game mods, and generally tinkering.</i>
 
 <strong>👨‍💻 Currently working on:</strong>
-+ 🌱 Senzai ([senzai-theme](https://lottehime.github.io/senzai-theme/), senzai-startpage) [👀]
++ 🌱 Senzai ([senzai-theme](https://vectorcmdr.github.io/senzai-theme/), senzai-startpage) [👀]
 + 🗃️ STL Bitz Box [🔒]
 + 🕵️ Secret Unity stuff [🔒]
 
 <div align="center">
   
 <!--
-  <a href="https://lottehime.github.io">
+  <a href="https://vectorcmdr.github.io">
   <img src="https://custom-icon-badges.demolab.com/badge/-portfolio_site-grey?style=for-the-badge&logo=paintbrush&logoColor=white" height="30" alt="portfolio logo" title="My Portfolio" /></a>
 -->
 
-  <a href="https://github.com/lottehime?tab=repositories">
+  <a href="https://github.com/vectorcmdr?tab=repositories">
   <img src="https://img.shields.io/badge/public_repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo" title="My Public GitHub Repos" /></a>
 
   <a href="https://assetstore.unity.com/publishers/18386">
@@ -77,7 +77,7 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
   <a href="#"><img width="6" /></a>
   <a href="#"><img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo" title="Trello Project Management" /></a>
   <a href="#"><img width="6" /></a>
-  <a href="#"><img src="https://github.com/lottehime/lottehime/blob/main/assets/3d-printer.png" height="30" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
+  <a href="#"><img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/3d-printer.png" height="30" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
   
 </div>
 
@@ -85,15 +85,15 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 
 <div align="center">
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=lottehime&rank=-B,-C,-?&theme=discord&column=-1)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
 
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lottehime&theme=dracula" height="130"  alt="language graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>
 
   
 <!--
   <a href="#">
-  <img src="https://streak-stats.demolab.com?user=lottehime&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=vectorcmdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   </a>
 -->
 
