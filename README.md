@@ -1,21 +1,21 @@
 <h2>Hi, I'm Josh 👋</h2>
 <picture>
-<img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/typewriter.gif"/>
+<img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/typewriter.gif" height="16"/>
 </picture>
 <!--
 Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 -->
 <h3>I'm a professional developer and 3D artist.</h3>
+My primary focus is Unity game dev, low poly stylized 3D art, C# tools and automation.
 
-+ <strong>😍 Focus areas:</strong> <i>Unity game dev, low poly stylized 3D art, C# tools and automation.</i>
-+ <strong>💪 Other areas:</strong> <i>Webdev, VR/AR, 3D printing, CAD and futurism design.</i>
-+ <strong>🎮 For fun:</strong> <i>Games (video, tabletop & card), making game mods, and generally tinkering.</i>
+I also do web dev and 3D printing/product design and elec/mech CAD.
+
+For fun I enjoy playing and modding games (video & tabletop) and general tech tinkering.
 
 <strong>👨‍💻 Currently working on:</strong>
-+ 🌱 Senzai Startpage ([senzai-startpage](https://github.com/vectorcmdr/senzai-startpage)) [👀]
-+ 🌱 Senzai Theme ([senzai-theme](https://vectorcmdr.github.io/senzai-theme/)) [👀]
-+ 🗃️ STL Bitz Box [🔒]
-+ 🕵️ Secret Unity stuff [🔒]
++ 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
++ 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
++ 🕵️ Secret Unity stuff: **_DungeonGen_**, **_World Edit_** [🔒]
 
 <div align="center">
   
@@ -84,12 +84,11 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 
 ------
 
-<div align="center">
+| Language Graph | GitHub Stats |
+| ------------- | ------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>  | ![trophy](https://github-profile-trophy.vercel.app/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1) |
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
 
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>
 
   
 <!--
