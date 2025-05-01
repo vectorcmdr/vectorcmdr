@@ -6,13 +6,14 @@
 Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 -->
 <h3>I'm a professional developer and 3D artist.</h3>
-My primary focus is Unity game dev, low poly stylized 3D art, C# tools and automation.
+<strong>My primary focus is Unity game dev, low poly stylized 3D art, C# tools and automation.</strong>
 
 I also do web dev and 3D printing/product design and elec/mech CAD.
 
 For fun I enjoy playing and modding games (video & tabletop) and general tech tinkering.
 
-<strong>👨‍💻 Currently working on:</strong>
+<h3>👨‍💻 Currently working on:</h3>
+
 + 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
 + 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
 + 🕵️ Secret Unity stuff: **_DungeonGen_**, **_World Edit_** [🔒]
@@ -35,7 +36,7 @@ For fun I enjoy playing and modding games (video & tabletop) and general tech ti
 
 </div>
 
-------
+-----
 
 <div align="center">
   <h4>
@@ -81,8 +82,6 @@ For fun I enjoy playing and modding games (video & tabletop) and general tech ti
   <a href="#"><img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/3d-printer.png" height="30" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
   
 </div>
-
-------
 
 | Language Graph | GitHub Stats |
 | ------------- | ------------- |
