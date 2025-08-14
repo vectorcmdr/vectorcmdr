@@ -16,7 +16,8 @@ For fun I enjoy playing and modding games (video & tabletop) and general tech ti
 
 + 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
 + 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
-+ 🕵️ Secret Unity stuff: **_DungeonGen_**, **_World Edit_** [🔒]
++ 🕵️ Secret Unity stuff: **_OneGen Procedural Dungeon & Level Generator_** [🔒]
++ 🕵️ Secret Unity stuff: **_World Edit: Level Editing Suite_** [🔒]
 
 <div align="center">
   
