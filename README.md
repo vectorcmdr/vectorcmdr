@@ -6,16 +6,16 @@
 Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 -->
 <h3>I'm a professional developer and 3D artist.</h3>
-<strong>My primary focus is Unity game dev, low poly stylized 3D art, C# tools and automation.</strong>
+<strong>My primary focus is Unity game dev, stylized 3D art, C# tools and automation.</strong>
 
-I also do web dev and 3D printing/product design and elec/mech CAD.
+I also do a little web dev and have a strong work history in AV/elec/mech CAD & 3D printing/product design.
 
-<i>For fun I enjoy playing and modding games (video & tabletop) and general tech tinkering.</i>
+For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, and general tech tinkering.
 
 <h3>👨‍💻 Working on:</h3>
 
-+ 🕵️ Unity: **_OneGen Procedural Level Generator_** [🔒]
-+ 🕵️ Unity: **_World Edit: Level Editing Suite_** [🔒]
++ 🕵️ Unity Asset: **_OneGen Procedural Level Generator_** [🔒]
++ 🕵️ Unity Asset: **_World Edit: Level Editing Suite_** [🔒]
 
 <h3>📦 Current Projects & Contribs:</h3>
 
