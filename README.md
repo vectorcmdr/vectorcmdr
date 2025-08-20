@@ -9,7 +9,7 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 <strong>My primary focus is Unity game dev, low poly stylized 3D art, C# tools and automation.</strong>
 
 I also do web dev and 3D printing/product design and elec/mech CAD.
-<br>
+
 <i>For fun I enjoy playing and modding games (video & tabletop) and general tech tinkering.</i>
 
 <h3>👨‍💻 Working on:</h3>
@@ -20,8 +20,8 @@ I also do web dev and 3D printing/product design and elec/mech CAD.
 <h3>📦 Current Projects & Contribs:</h3>
 
 + 🏞️ [Low Poly Complete Collection](https://assetstore.unity.com/packages/3d/environments/low-poly-complete-collection-polyworks-52666)
-+ 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
 + 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
++ 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
 + 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
 + 🚀 [Expansive Mods for Space Engineers](https://github.com/vectorcmdr/Expansive-Mods-SE)
 + 👕 [Animal Crossing: New Horizons Pattern Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
