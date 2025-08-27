@@ -94,7 +94,7 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 
 | Language Graph | GitHub Stats |
 | ------------- | ------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>  | ![trophy](https://github-profile-trophy.vercel.app/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1) |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>  | ![trophy](https://trophygh.kolioaris.xyz/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1) |
 
 
 
