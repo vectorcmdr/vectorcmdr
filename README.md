@@ -15,7 +15,7 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 <h3>👨‍💻 Working on:</h3>
 
 + 🕵️ Unity Asset: **_OneGen Procedural Level Generator_** [🔒]
-+ 🕵️ Unity Asset: **_World Edit: Level Editing Suite_** [🔒]
++ 🕵️ Unity Asset: **_World Edit: Level Design Suite_** [🔒]
 
 <h3>📦 Current Projects & Contribs:</h3>
 
