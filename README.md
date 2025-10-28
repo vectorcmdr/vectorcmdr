@@ -21,12 +21,14 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 
 + 🏞️ [My Unity Assets](https://assetstore.unity.com/publishers/18386)
 + 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
-+ 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
-+ 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
-+ 🚀 [Expansive Mods for Space Engineers](https://github.com/vectorcmdr/Expansive-Mods-SE)
-+ 👕 [Animal Crossing: New Horizons Pattern Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
 + 🍃 [Animal Crossing: New Horizons Save Editor (Collaborator)](https://github.com/kwsch/NHSE)
 + 🌌 [NMS Save Editor (hotfix)](https://github.com/vectorcmdr/NMSSaveEditor)
++ 🚀 [Expansive Mods for Space Engineers](https://github.com/vectorcmdr/Expansive-Mods-SE)
++ 🍔 [Silent Eating - Misophonia Mod for Space Engineers](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE)
++ 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
++ 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
++ 👕 [Animal Crossing: New Horizons Pattern Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
+
 
 <div align="center">
   
