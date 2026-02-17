@@ -8,7 +8,7 @@ Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 <h3>I'm a professional developer and 3D artist.</h3>
 <strong>My primary focus is Unity game dev, stylized 3D art, C# tools and automation.</strong>
 
-I also do a little web dev and have a strong work history in AV/elec/mech CAD & 3D printing/product design.
+I also do a little reversing, and have a strong work history in AV/elec/mech/arch CAD & 3D printing/product design.
 
 For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, and general tech tinkering.
 
@@ -16,15 +16,16 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 
 + 🕵️ Unity Asset: **_OneGen Procedural Level Generator_** [🔒]
 + 🕵️ Unity Asset: **_World Edit: Level Design Suite_** [🔒]
++ 🌌 NMSE NO MAN's SAVE EDITOR (C# Open Source Save Editor)
 
 <h3>📦 Current Projects & Contribs:</h3>
 
 + 🏞️ [My Unity Assets](https://assetstore.unity.com/publishers/18386)
-+ 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
 + 🍃 [Animal Crossing: New Horizons Save Editor (Collaborator)](https://github.com/kwsch/NHSE)
 + 🌌 [NMS Save Editor (hotfix)](https://github.com/vectorcmdr/NMSSaveEditor)
 + 🚀 [Expansive Mods for Space Engineers](https://github.com/vectorcmdr/Expansive-Mods-SE)
 + 🍔 [Silent Eating - Misophonia Mod for Space Engineers](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE)
++ 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
 + 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
 + 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
 + 👕 [Animal Crossing: New Horizons Pattern Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
