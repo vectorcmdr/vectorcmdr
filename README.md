@@ -1,35 +1,47 @@
 <h2>Hi, I'm Josh 👋</h2>
+<!--
 <picture>
 <img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/typewriter.gif" height="16"/>
 </picture>
-<!--
 Gif from:  https://willkessler.github.io/typed-text-gif-maker/
 -->
 <h3>I'm a professional developer and 3D artist.</h3>
 <strong>My primary focus is Unity game dev, stylized 3D art, C# tools and automation.</strong>
-
-I also do a little reversing, and have a strong work history in AV/elec/mech/arch CAD & 3D printing/product design.
-
+<br><br>
+I also do a little reversing, and have a strong work history in AV/elec/mech/arch CAD & 3D printing/product design.<br>
 For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, and general tech tinkering.
 
-<h3>👨‍💻 Working on:</h3>
+<h3>👨‍💻 Projects & Collaborations:</h3>
 
-+ 🕵️ Unity Asset: **_OneGen Procedural Level Generator_** [🔒]
-+ 🕵️ Unity Asset: **_World Edit: Level Design Suite_** [🔒]
-+ 🌌 NMSE NO MAN's SAVE EDITOR (C# Open Source Save Editor)
+<div align="center" width="90%">
+<table>
+<tr>
+<td width="50%" valign="top" align="left">
 
-<h3>📦 Current Projects & Contribs:</h3>
-
++ 🌌 [NMSE - No Man's Save Editor](https://github.com/vectorcmdr/NMSE) (NMS)
 + 🏞️ [My Unity Assets](https://assetstore.unity.com/publishers/18386)
-+ 🍃 [Animal Crossing: New Horizons Save Editor (Collaborator)](https://github.com/kwsch/NHSE)
-+ 🌌 [NMS Save Editor (hotfix)](https://github.com/vectorcmdr/NMSSaveEditor)
++ 🍃 [NHSE](https://github.com/kwsch/NHSE) (Animal Crossing: NH Save Editor)
++ 🌌 [NMSSaveEditor (hotfix)](https://github.com/vectorcmdr/NMSSaveEditor) (archived)
++ 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
+
+</td>
+<td width="50%" valign="top" align="left">
+
 + 🚀 [Expansive Mods for Space Engineers](https://github.com/vectorcmdr/Expansive-Mods-SE)
-+ 🍔 [Silent Eating - Misophonia Mod for Space Engineers](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE)
++ 🍔 [Silent Eating (Misophonia)](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE) (Space Engineers)
 + 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
 + 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
-+ 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
-+ 👕 [Animal Crossing: New Horizons Pattern Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
++ 👕 [Animal Crossing: New Horizons Patterns](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
 
+</td>
+</tr>
+</table>
+</div>
+
+<!--
++ 🕵️ Unity Asset: **_OneGen Procedural Level Generator_** [🔒]
++ 🕵️ Unity Asset: **_World Edit: Level Design Suite_** [🔒]
+-->
 
 <div align="center">
   
@@ -62,6 +74,8 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="24" alt="visualstudio logo" title="Visual Studio" /></a>
   <a href="#"><img width="1" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="24" alt="vscode logo" title="Visual Studio Code" /></a>
+  <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="24" alt="dotnet logo" title=".Net Development" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo" title="C Development" /></a>
@@ -75,6 +89,10 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
   <a href="#"><img src="https://skillicons.dev/icons?i=css" height="24" alt="css logo" title="CSS" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo" title="Python Development" /></a>
+  
+  <a href="#"><img src="https://cdn.simpleicons.org/claude/D97757" height="24" alt="claude logo" title="Claude Code" /></a>
+  <a href="#"><img width="1" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/githubcopilot/4d4d4d" height="24" alt="githubcopilot logo" title="GitHub Copilot" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="24" alt="ruby logo" title="Ruby" /></a>
   <a href="#"><img width="1" /></a>
@@ -96,13 +114,11 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
   
 </div>
 
-| Language Graph | GitHub Stats |
-| ------------- | ------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>  | ![trophy](https://trophygh.kolioaris.xyz/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1) |
+![trophy](https://trophygh.kolioaris.xyz/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>
+</p>
 
-
-
-  
 <!--
   <a href="#">
   <img src="https://streak-stats.demolab.com?user=vectorcmdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
