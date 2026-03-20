@@ -13,8 +13,8 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 
 <h3>👨‍💻 Projects & Collaborations:</h3>
 
-<div align="center" width="90%">
-<table>
+<div align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top" align="left">
 
