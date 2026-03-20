@@ -20,18 +20,18 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 
 + 🌌 [NMSE - No Man's Save Editor](https://github.com/vectorcmdr/NMSE) (NMS)
 + 🏞️ [My Unity Assets](https://assetstore.unity.com/publishers/18386)
-+ 🍃 [NHSE](https://github.com/kwsch/NHSE) (Animal Crossing: NH Save Editor)
++ 🍃 [NHSE](https://github.com/kwsch/NHSE) (ACNH Save Editor)
 + 🌌 [NMSSaveEditor (hotfix)](https://github.com/vectorcmdr/NMSSaveEditor) (archived)
 + 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
 
 </td>
 <td width="50%" valign="top" align="left">
 
-+ 🚀 [Expansive Mods for Space Engineers](https://github.com/vectorcmdr/Expansive-Mods-SE)
-+ 🍔 [Silent Eating (Misophonia)](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE) (Space Engineers)
++ 🚀 [Expansive Mods](https://github.com/vectorcmdr/Expansive-Mods-SE) (Space Engineers)
++ 🍔 [Silent Eating](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE) (Space Engineers)
 + 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
 + 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
-+ 👕 [Animal Crossing: New Horizons Patterns](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
++ 👕 [ACNH Pattern Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
 
 </td>
 </tr>
