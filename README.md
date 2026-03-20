@@ -14,9 +14,9 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 <h3>👨‍💻 Projects & Collaborations:</h3>
 
 <div align="center">
-<table width="100%">
+<table style="width: 100%;">
 <tr>
-<td width="50%" valign="top" align="left">
+<td style="width: 50%; valign="top" align="left">
 
 + 🌌 [NMSE - No Man's Save Editor](https://github.com/vectorcmdr/NMSE) (NMS)
 + 🏞️ [My Unity Assets](https://assetstore.unity.com/publishers/18386)
@@ -25,7 +25,7 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 + 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
 
 </td>
-<td width="50%" valign="top" align="left">
+<td style="width: 50%; valign="top" align="left">
 
 + 🚀 [Expansive Mods](https://github.com/vectorcmdr/Expansive-Mods-SE) (Space Engineers)
 + 🍔 [Silent Eating](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE) (Space Engineers)
