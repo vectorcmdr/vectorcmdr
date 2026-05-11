@@ -19,9 +19,9 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 <td style="width: 50%; valign="top" align="left">
 
 + 🌌 [NMSE - No Man's Save Editor](https://github.com/vectorcmdr/NMSE) (NMS)
++ 🔬 [AssetCoroner](https://github.com/vectorcmdr/AssetCoroner) (GameDev Repo Auditing)
 + 🏞️ [My Unity Assets](https://assetstore.unity.com/publishers/18386)
 + 🍃 [NHSE](https://github.com/kwsch/NHSE) (ACNH Save Editor)
-+ 🌌 [NMSSaveEditor (hotfix)](https://github.com/vectorcmdr/NMSSaveEditor) (archived)
 + 📖 [Lakota Dictionary MDF](https://github.com/vectorcmdr/Lakota-Dictionary-MDF)
 
 </td>
