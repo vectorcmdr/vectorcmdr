@@ -1,14 +1,11 @@
 <h2>Hi, I'm Josh 👋</h2>
-<!--
-<picture>
-<img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/typewriter.gif" height="16"/>
-</picture>
-Gif from:  https://willkessler.github.io/typed-text-gif-maker/
--->
-<h3>I'm a professional developer and 3D artist.</h3>
-<strong>My primary focus is Unity game dev, stylized 3D art, C# tools and automation.</strong>
+
+### But you probably know me as vector_cmdr (_or josh_axey_)
+
+<h4>I'm a professional developer and 3D artist.</h4>
+<strong>My primary focuses are C# .NET, Unity gamedev, stylized 3D, and automation.</strong>
 <br><br>
-I also do a little reversing, and have a strong work history in AV/elec/mech/arch CAD & 3D printing/product design.<br>
+I also enjoy reverse-engineering, and have a strong work history in AV/ele/mech/arch CAD & 3D print/product design.<br>
 For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, and general tech tinkering.
 
 <h3>👨‍💻 Projects & Collaborations:</h3>
