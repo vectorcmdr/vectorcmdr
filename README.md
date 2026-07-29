@@ -26,7 +26,7 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 
 + 🚀 [Expansive Mods](https://github.com/vectorcmdr/Expansive-Mods-SE) (Space Engineers)
 + 🍔 [Silent Eating](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE) (Space Engineers)
-+ 🌱 [Senzai Startpage](https://github.com/vectorcmdr/senzai-startpage)
++ 📚 [Wiki Engine](https://github.com/vectorcmdr/wiki-engine)
 + 🗃️ [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box)
 + 👕 [ACNH Pattern Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index)
 
