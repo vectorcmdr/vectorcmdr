@@ -110,12 +110,8 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
   <a href="#"><img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/3d-printer.png" height="24" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
   
 </div>
-
-<!--
-![trophy](https://trophygh.kolioaris.xyz/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
--->
-
-![trophy](https://trophy.ryglcloud.net/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
+  
+![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&row=2&column=5)
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>
