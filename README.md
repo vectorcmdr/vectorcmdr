@@ -111,7 +111,7 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
   
 </div>
   
-![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&row=2&column=5)
+![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>
