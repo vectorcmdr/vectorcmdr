@@ -119,10 +119,10 @@ For fun I enjoy gaming & modding (video & tabletop), LEGO building & design, hom
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
-  <img src="stats/summary-light.svg" width="450" alt="GitHub stats">
+  <img src="stats/summary-light.svg" width="350" alt="GitHub stats">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
-  <img src="stats/contributions-light.svg" width="450" alt="Notable contributions">
+  <img src="stats/contributions-light.svg" width="350" alt="Notable contributions">
 </picture>
 </p>
