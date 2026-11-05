@@ -1,0 +1,31 @@
+user: null              # defaults to the token's owner
+cards: [summary, languages, contributions, weekly]   # the cards to make
+style: classic          # or oled: pinball-style dot-matrix cards
+matrix: true            # oled only; false: square pixels instead of round LEDs
+color: amber            # oled only: amber, green or theme (GitHub's colours, light or dark)
+transparent: false      # oled only; true: no dark panel behind the dots
+include:
+  private: true
+  orgs: true            # repos of organizations you belong to
+theme:
+  background: transparent   # or solid
+  border: false
+  animations: true
+summary:
+  title: null          # small, on the header line
+  ring: percent         # or github: the GitHub logo in the ring, the percentage in the title
+languages:
+  title: Most used languages   # null hides it
+  count: 6
+  exclude: []           # language names; their share is dropped
+  excludeRepos: []      # "repo" for your own, "owner/repo" otherwise
+  repoWeights: {}       # repo: multiplier; 0 leaves it out
+  other: true           # fold the rest into "Other"; false: the shown ones share 100%
+contributions:
+  title: Notable contributions
+  count: 6              # 3 in view at a time; the rest scroll past in a loop
+  includeOpen: true
+  pin: []               # shown first; pull requests closed without merging never count
+  hide: []
+weekly:
+  title: Weekly rhythm
