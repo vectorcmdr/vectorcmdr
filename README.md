@@ -2,13 +2,13 @@
 
 ### But you probably know me as vector_cmdr (_or josh_axey_)
 
-<h4>I'm a professional developer and 3D artist.</h4>
-<strong>My primary focuses are C# .NET, Unity gamedev, stylized 3D, and automation.</strong>
+<h4>I'm a professional developer and environment artist.</h4>
+<strong>My primary focuses are C# .NET, Unity gamedev, stylized 3D, reverse-engineering and automation.</strong>
 <br><br>
-I also enjoy reverse-engineering, and have a strong work history in AV/ele/mech/arch CAD & 3D print/product design.<br>
-For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, and general tech tinkering.
+I also have a strong history in AV/ele/mech/arch CAD & 3D print/product design.<br>
+For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, homelabbing, and general tech tinkering.
 
-<h3>👨‍💻 Projects & Collaborations:</h3>
+<h3>Projects & Collaborations:</h3>
 
 <div align="center">
 <table style="width: 100%;">
@@ -67,33 +67,33 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
   
   <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="24" alt="csharp logo" title="C# Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24" alt="unity logo" title="Unity Development" /></a>
-  <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="24" alt="visualstudio logo" title="Visual Studio" /></a>
-  <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="24" alt="vscode logo" title="Visual Studio Code" /></a>
-  <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="24" alt="dotnet logo" title=".Net Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo" title="C Development" /></a>
-  <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="24" alt="cpp logo" title="C++ Development" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo" title="Python Development" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" height="24" alt="javascript logo" title="JavaScript" /></a>
+  <a href="#"><img width="1" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="24" alt="typescript" title="TypeScript" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" height="24" alt="html logo" title="HTML" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" height="24" alt="css logo" title="CSS" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo" title="Python Development" /></a>
-  
-  <a href="#"><img src="https://cdn.simpleicons.org/claude/D97757" height="24" alt="claude logo" title="Claude Code" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo" title="C Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/githubcopilot/4d4d4d" height="24" alt="githubcopilot logo" title="GitHub Copilot" /></a>
-  <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="24" alt="ruby logo" title="Ruby" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="24" alt="cpp logo" title="C++ Development" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="24" alt="mysql logo" title="MySQL" /></a>
+  <a href="#"><img width="1" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="24" alt="ruby logo" title="Ruby" /></a>  
+
+  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="24" alt="visualstudio logo" title="Visual Studio" /></a>
+  <a href="#"><img width="1" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="24" alt="vscode logo" title="Visual Studio Code" /></a>
+  <a href="#"><img width="1" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24" alt="unity logo" title="Unity Development" /></a>
+  <a href="#"><img width="1" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/opencode/000000" height="24" alt="opencode" title="OpenCode" /></a>
   <a href="#"><img width="1" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" height="24" alt="github logo" title="GitHub Management" /></a>
   <a href="#"><img width="1" /></a>
@@ -113,10 +113,6 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
   
 ![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
 
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vectorcmdr&theme=dracula" height="130"  alt="language graph"/>
-</p>
-
 <!--
   <a href="#">
   <img src="https://streak-stats.demolab.com?user=vectorcmdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
@@ -124,3 +120,24 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, a
 -->
 
 </div>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
+  <img src="stats/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/languages-dark.svg">
+  <img src="stats/languages-light.svg" width="350" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
+  <img src="stats/contributions-light.svg" width="450" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/weekly-dark.svg">
+  <img src="stats/weekly-light.svg" width="350" alt="Weekly rhythm">
+</picture>
+</p>
