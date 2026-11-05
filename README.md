@@ -4,9 +4,10 @@
 
 <h4>I'm a professional developer and environment artist.</h4>
 <strong>My primary focuses are C# .NET, Unity gamedev, stylized 3D, reverse-engineering and automation.</strong>
+<br>
+I also have a strong history in AV/arch/ele/mech CAD & 3D print/product design.
 <br><br>
-I also have a strong history in AV/ele/mech/arch CAD & 3D print/product design.<br>
-For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, homelabbing, and general tech tinkering.
+For fun I enjoy gaming & modding (video & tabletop), LEGO building & design, homelabbing, and general tech tinkering.
 
 <h3>Projects & Collaborations:</h3>
 
@@ -35,17 +36,7 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, h
 </table>
 </div>
 
-<!--
-+ 🕵️ Unity Asset: **_OneGen Procedural Level Generator_** [🔒]
-+ 🕵️ Unity Asset: **_World Edit: Level Design Suite_** [🔒]
--->
-
 <div align="center">
-  
-<!--
-  <a href="https://vectorcmdr.github.io">
-  <img src="https://custom-icon-badges.demolab.com/badge/-portfolio_site-grey?style=for-the-badge&logo=paintbrush&logoColor=white" height="30" alt="portfolio logo" title="My Portfolio" /></a>
--->
 
   <a href="https://github.com/vectorcmdr?tab=repositories">
   <img src="https://img.shields.io/badge/public_repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo" title="My Public GitHub Repos" /></a>
@@ -62,52 +53,48 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, h
 
 <div align="center">
   <h4>
-    ⚙️ TECH STACK ⚙️
+    TECH STACK
   </h4>
   
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="24" alt="csharp logo" title="C# Development" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="20" alt="csharp logo" title="C# Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="24" alt="dotnet logo" title=".Net Development" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="20" alt="dotnet logo" title=".Net Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo" title="Python Development" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo" title="Python Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="24" alt="javascript logo" title="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo" title="JavaScript" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="24" alt="typescript" title="TypeScript" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" alt="typescript" title="TypeScript" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" height="24" alt="html logo" title="HTML" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" height="20" alt="html logo" title="HTML" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" height="24" alt="css logo" title="CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" height="20" alt="css logo" title="CSS" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo" title="C Development" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="20" alt="cpp logo" title="C++ Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="24" alt="cpp logo" title="C++ Development" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo" title="MySQL" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="24" alt="mysql logo" title="MySQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="20" alt="ruby logo" title="Ruby" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" height="24" alt="ruby logo" title="Ruby" /></a>  
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="24" alt="visualstudio logo" title="Visual Studio" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" height="20" alt="visualstudio logo" title="Visual Studio" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="24" alt="vscode logo" title="Visual Studio Code" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="20" alt="vscode logo" title="Visual Studio Code" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=unity" height="24" alt="unity logo" title="Unity Development" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=unity" height="20" alt="unity logo" title="Unity Development" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/opencode/000000" height="24" alt="opencode" title="OpenCode" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/opencode/94A3B8" height="20" alt="opencode" title="OpenCode" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="24" alt="github logo" title="GitHub Management" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sketchup" height="20" alt="sketchup logo" title="SketchUp 3D Modeling" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sketchup" height="24" alt="sketchup logo" title="SketchUp 3D Modeling" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=blender" height="20" alt="blender logo" title="Blender Sculpting" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=blender" height="24" alt="blender logo" title="Blender Sculpting" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="20" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=autocad" height="24" alt="autocad logo" title="AutoCAD &amp; AutoLISP" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ps" height="20" alt="photoshop logo" title="Photoshop" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ps" height="24" alt="photoshop logo" title="Photoshop" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/trello/0052CC" height="20" alt="trello logo" title="Trello Project Management" /></a>
   <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/trello/0052CC" height="24" alt="trello logo" title="Trello Project Management" /></a>
-  <a href="#"><img width="1" /></a>
-  <a href="#"><img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/3d-printer.png" height="24" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
+  <a href="#"><img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/3d-printer.png" height="20" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
   
 </div>
   
@@ -123,12 +110,12 @@ For fun I enjoy gaming and modding (video & tabletop), LEGO building & design, h
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
-  <img src="stats/summary-light.svg" width="450" alt="GitHub stats">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/languages-dark.svg">
   <img src="stats/languages-light.svg" width="350" alt="Most used languages">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
+  <img src="stats/summary-light.svg" width="450" alt="GitHub stats">
 </picture>
 </p>
 <p align="center">
