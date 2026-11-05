@@ -13,7 +13,7 @@ theme:
   animations: true
 summary:
   title: null          # small, on the header line
-  ring: percent         # or github: the GitHub logo in the ring, the percentage in the title
+  ring: github         # or github: the GitHub logo in the ring, the percentage in the title
 languages:
   title: Most used languages   # null hides it
   count: 6
@@ -25,7 +25,7 @@ contributions:
   title: Notable contributions
   count: 6              # 3 in view at a time; the rest scroll past in a loop
   includeOpen: true
-  pin: []               # shown first; pull requests closed without merging never count
+  pin: [vectorcmdr/NMSE]               # shown first; pull requests closed without merging never count
   hide: []
 weekly:
   title: Weekly rhythm
