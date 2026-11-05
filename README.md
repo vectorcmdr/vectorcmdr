@@ -96,6 +96,14 @@ For fun I enjoy gaming & modding (video & tabletop), LEGO building & design, hom
   
 </div>
 
+![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
+
+<!--
+  <a href="#">
+  <img src="https://streak-stats.demolab.com?user=vectorcmdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  </a>
+-->
+
 </div>
 
 <p align="center">
@@ -104,25 +112,17 @@ For fun I enjoy gaming & modding (video & tabletop), LEGO building & design, hom
   <img src="stats/languages-light.svg" width="350" alt="Most used languages">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
-  <img src="stats/summary-light.svg" width="450" alt="GitHub stats">
-</picture>
-</p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
-  <img src="stats/contributions-light.svg" width="450" alt="Notable contributions">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/weekly-dark.svg">
   <img src="stats/weekly-light.svg" width="350" alt="Weekly rhythm">
 </picture>
 </p>
-
-![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
-
-<!--
-  <a href="#">
-  <img src="https://streak-stats.demolab.com?user=vectorcmdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  </a>
--->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
+  <img src="stats/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
+  <img src="stats/contributions-light.svg" width="450" alt="Notable contributions">
+</picture>
+</p>
