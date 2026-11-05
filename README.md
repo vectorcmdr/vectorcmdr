@@ -49,8 +49,6 @@ For fun I enjoy gaming & modding (video & tabletop), LEGO building & design, hom
 
 </div>
 
------
-
 <div align="center">
   <h4>
     TECH STACK
@@ -97,14 +95,6 @@ For fun I enjoy gaming & modding (video & tabletop), LEGO building & design, hom
   <a href="#"><img src="https://github.com/vectorcmdr/vectorcmdr/blob/main/assets/3d-printer.png" height="20" alt="printer logo" title="3D Printing (FDM/SLA)" /></a>
   
 </div>
-  
-![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
-
-<!--
-  <a href="#">
-  <img src="https://streak-stats.demolab.com?user=vectorcmdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  </a>
--->
 
 </div>
 
@@ -128,3 +118,11 @@ For fun I enjoy gaming & modding (video & tabletop), LEGO building & design, hom
   <img src="stats/weekly-light.svg" width="350" alt="Weekly rhythm">
 </picture>
 </p>
+
+![trophy](https://github-trophies.devomb.com/?username=vectorcmdr&rank=-B,-C,-?&theme=discord&column=-1)
+
+<!--
+  <a href="#">
+  <img src="https://streak-stats.demolab.com?user=vectorcmdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  </a>
+-->
