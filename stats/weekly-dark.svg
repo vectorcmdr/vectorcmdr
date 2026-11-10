@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Weekly rhythm</title>
-<desc id="desc">Contributions per weekday over the last 12 months (3,910 in total): Mon 574, Tue 544, Wed 510, Thu 763, Fri 519, Sat 543, Sun 457. Busiest: Thu. Quietest: Sun. On weekdays: 74%.</desc>
+<desc id="desc">Contributions per weekday over the last 12 months (3,946 in total): Mon 586, Tue 568, Wed 510, Thu 763, Fri 519, Sat 543, Sun 457. Busiest: Thu. Quietest: Sun. On weekdays: 75%.</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
   .label { font-size: 14px; }
@@ -24,8 +24,8 @@
 <rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="none" stroke="none"/>
 <text x="20" y="28" class="col">WEEKLY RHYTHM</text>
 <line x1="20" y1="166.5" x2="240" y2="166.5" stroke="#3d444d"/>
-<path class="rise" style="animation-delay: 200ms" d="M26.714285714285715 166V85.74311926605505Q26.714285714285715 81.74311926605505 30.714285714285715 81.74311926605505H40.714285714285715Q44.714285714285715 81.74311926605505 44.714285714285715 85.74311926605505V166Z" fill="#ffab1a"/><text x="35.714285714285715" y="184" text-anchor="middle" class="small secondary">Mon</text>
-<path class="rise" style="animation-delay: 260ms" d="M58.142857142857146 166V90.14678899082568Q58.142857142857146 86.14678899082568 62.142857142857146 86.14678899082568H72.14285714285714Q76.14285714285714 86.14678899082568 76.14285714285714 90.14678899082568V166Z" fill="#d98a00"/><text x="67.14285714285714" y="184" text-anchor="middle" class="small secondary">Tue</text>
+<path class="rise" style="animation-delay: 200ms" d="M26.714285714285715 166V83.98165137614679Q26.714285714285715 79.98165137614679 30.714285714285715 79.98165137614679H40.714285714285715Q44.714285714285715 79.98165137614679 44.714285714285715 83.98165137614679V166Z" fill="#ffab1a"/><text x="35.714285714285715" y="184" text-anchor="middle" class="small secondary">Mon</text>
+<path class="rise" style="animation-delay: 260ms" d="M58.142857142857146 166V86.62385321100918Q58.142857142857146 82.62385321100918 62.142857142857146 82.62385321100918H72.14285714285714Q76.14285714285714 82.62385321100918 76.14285714285714 86.62385321100918V166Z" fill="#d98a00"/><text x="67.14285714285714" y="184" text-anchor="middle" class="small secondary">Tue</text>
 <path class="rise" style="animation-delay: 320ms" d="M89.57142857142857 166V95.13761467889908Q89.57142857142857 91.13761467889908 93.57142857142857 91.13761467889908H103.57142857142857Q107.57142857142857 91.13761467889908 107.57142857142857 95.13761467889908V166Z" fill="#d98a00"/><text x="98.57142857142857" y="184" text-anchor="middle" class="small secondary">Wed</text>
 <path class="rise" style="animation-delay: 380ms" d="M120.99999999999999 166V58Q120.99999999999999 54 124.99999999999999 54H135Q139 54 139 58V166Z" fill="#ffab1a"/><text x="130" y="184" text-anchor="middle" class="small secondary">Thu</text>
 <path class="rise" style="animation-delay: 440ms" d="M152.42857142857144 166V93.81651376146789Q152.42857142857144 89.81651376146789 156.42857142857144 89.81651376146789H166.42857142857144Q170.42857142857144 89.81651376146789 170.42857142857144 93.81651376146789V166Z" fill="#d98a00"/><text x="161.42857142857144" y="184" text-anchor="middle" class="small secondary">Fri</text>
@@ -33,5 +33,5 @@
 <path class="rise" style="animation-delay: 560ms" d="M215.28571428571428 166V102.91743119266054Q215.28571428571428 98.91743119266054 219.28571428571428 98.91743119266054H229.28571428571428Q233.28571428571428 98.91743119266054 233.28571428571428 102.91743119266054V166Z" fill="#d98a00"/><text x="224.28571428571428" y="184" text-anchor="middle" class="small secondary">Sun</text>
 <g transform="translate(258 46)"><g class="fade" style="animation-delay: 470ms"><text y="11" class="small secondary">Busiest day · 763</text><text y="34" style="font-size: 20px; font-weight: 700;">Thursday</text></g></g>
 <g transform="translate(258 92)"><g class="fade" style="animation-delay: 560ms"><text y="11" class="small secondary">Quietest day · 457</text><text y="34" style="font-size: 20px; font-weight: 700;">Sunday</text></g></g>
-<g transform="translate(258 138)"><g class="fade" style="animation-delay: 650ms"><text y="11" class="small secondary">On weekdays</text><text y="34" style="font-size: 20px; font-weight: 700;">74%</text></g></g>
+<g transform="translate(258 138)"><g class="fade" style="animation-delay: 650ms"><text y="11" class="small secondary">On weekdays</text><text y="34" style="font-size: 20px; font-weight: 700;">75%</text></g></g>
 </svg>
