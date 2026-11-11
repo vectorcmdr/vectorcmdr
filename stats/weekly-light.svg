@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Weekly rhythm</title>
-<desc id="desc">Contributions per weekday over the last 12 months (3,946 in total): Mon 586, Tue 568, Wed 510, Thu 763, Fri 519, Sat 543, Sun 457. Busiest: Thu. Quietest: Sun. On weekdays: 75%.</desc>
+<desc id="desc">Contributions per weekday over the last 12 months (4,009 in total): Mon 586, Tue 591, Wed 550, Thu 763, Fri 519, Sat 543, Sun 457. Busiest: Thu. Quietest: Sun. On weekdays: 75%.</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1f2328; }
   .label { font-size: 14px; }
@@ -25,8 +25,8 @@
 <text x="20" y="28" class="col">WEEKLY RHYTHM</text>
 <line x1="20" y1="166.5" x2="240" y2="166.5" stroke="#d1d9e0"/>
 <path class="rise" style="animation-delay: 200ms" d="M26.714285714285715 166V83.98165137614679Q26.714285714285715 79.98165137614679 30.714285714285715 79.98165137614679H40.714285714285715Q44.714285714285715 79.98165137614679 44.714285714285715 83.98165137614679V166Z" fill="#9a4d00"/><text x="35.714285714285715" y="184" text-anchor="middle" class="small secondary">Mon</text>
-<path class="rise" style="animation-delay: 260ms" d="M58.142857142857146 166V86.62385321100918Q58.142857142857146 82.62385321100918 62.142857142857146 82.62385321100918H72.14285714285714Q76.14285714285714 82.62385321100918 76.14285714285714 86.62385321100918V166Z" fill="#c26a00"/><text x="67.14285714285714" y="184" text-anchor="middle" class="small secondary">Tue</text>
-<path class="rise" style="animation-delay: 320ms" d="M89.57142857142857 166V95.13761467889908Q89.57142857142857 91.13761467889908 93.57142857142857 91.13761467889908H103.57142857142857Q107.57142857142857 91.13761467889908 107.57142857142857 95.13761467889908V166Z" fill="#c26a00"/><text x="98.57142857142857" y="184" text-anchor="middle" class="small secondary">Wed</text>
+<path class="rise" style="animation-delay: 260ms" d="M58.142857142857146 166V83.24770642201835Q58.142857142857146 79.24770642201835 62.142857142857146 79.24770642201835H72.14285714285714Q76.14285714285714 79.24770642201835 76.14285714285714 83.24770642201835V166Z" fill="#9a4d00"/><text x="67.14285714285714" y="184" text-anchor="middle" class="small secondary">Tue</text>
+<path class="rise" style="animation-delay: 320ms" d="M89.57142857142857 166V89.26605504587155Q89.57142857142857 85.26605504587155 93.57142857142857 85.26605504587155H103.57142857142857Q107.57142857142857 85.26605504587155 107.57142857142857 89.26605504587155V166Z" fill="#c26a00"/><text x="98.57142857142857" y="184" text-anchor="middle" class="small secondary">Wed</text>
 <path class="rise" style="animation-delay: 380ms" d="M120.99999999999999 166V58Q120.99999999999999 54 124.99999999999999 54H135Q139 54 139 58V166Z" fill="#9a4d00"/><text x="130" y="184" text-anchor="middle" class="small secondary">Thu</text>
 <path class="rise" style="animation-delay: 440ms" d="M152.42857142857144 166V93.81651376146789Q152.42857142857144 89.81651376146789 156.42857142857144 89.81651376146789H166.42857142857144Q170.42857142857144 89.81651376146789 170.42857142857144 93.81651376146789V166Z" fill="#c26a00"/><text x="161.42857142857144" y="184" text-anchor="middle" class="small secondary">Fri</text>
 <path class="rise" style="animation-delay: 500ms" d="M183.85714285714286 166V90.29357798165138Q183.85714285714286 86.29357798165138 187.85714285714286 86.29357798165138H197.85714285714286Q201.85714285714286 86.29357798165138 201.85714285714286 90.29357798165138V166Z" fill="#c26a00"/><text x="192.85714285714286" y="184" text-anchor="middle" class="small secondary">Sat</text>
