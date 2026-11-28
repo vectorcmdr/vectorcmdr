@@ -22,7 +22,7 @@
 <rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="none" stroke="none"/>
 <text x="20" y="28" class="col">MOST USED LANGUAGES</text>
 <mask id="bar"><rect class="grow" x="20" y="48" width="360" height="10" rx="5" fill="#fff"/></mask>
-<g mask="url(#bar)"><rect x="20.00" y="48" width="189.12" height="10" fill="#7355dd"/><rect x="211.12" y="48" width="43.50" height="10" fill="#e34c26"/><rect x="256.61" y="48" width="34.00" height="10" fill="#3572A5"/><rect x="292.61" y="48" width="20.99" height="10" fill="#89e051"/><rect x="315.61" y="48" width="19.85" height="10" fill="#3178c6"/><rect x="337.45" y="48" width="42.55" height="10" fill="#6e7681"/></g>
+<g mask="url(#bar)"><rect x="20.00" y="48" width="189.00" height="10" fill="#7355dd"/><rect x="211.00" y="48" width="43.47" height="10" fill="#e34c26"/><rect x="256.47" y="48" width="34.07" height="10" fill="#3572A5"/><rect x="292.55" y="48" width="21.07" height="10" fill="#89e051"/><rect x="315.62" y="48" width="19.84" height="10" fill="#3178c6"/><rect x="337.45" y="48" width="42.55" height="10" fill="#6e7681"/></g>
 <g transform="translate(20 84)"><g class="fade" style="animation-delay: 200ms"><circle cx="5" cy="6" r="5" fill="#7355dd"/><text x="16" y="11" class="label">C# <tspan class="secondary">54.0%</tspan></text></g></g>
 <g transform="translate(200 84)"><g class="fade" style="animation-delay: 270ms"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text x="16" y="11" class="label">HTML <tspan class="secondary">12.4%</tspan></text></g></g>
 <g transform="translate(20 116)"><g class="fade" style="animation-delay: 340ms"><circle cx="5" cy="6" r="5" fill="#3572A5"/><text x="16" y="11" class="label">Python <tspan class="secondary">9.7%</tspan></text></g></g>
